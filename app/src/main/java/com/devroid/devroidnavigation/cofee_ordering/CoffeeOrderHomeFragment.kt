@@ -16,7 +16,7 @@ class CoffeeOrderHomeFragment : Fragment() {
     private lateinit var _binding: FragmentCoffeeOrderHomeBinding
     private val binding get() = _binding
 
-
+//test
     var coffee1Quantity = 0
 
     var coffee1Amount = 200
