@@ -18,6 +18,8 @@ class CoffeeOrderHomeFragment : Fragment() {
 
 
     var coffee1Quantity = 0
+
+ //test
     var coffee1Amount = 200
 
     var coffee2Quantity = 0
